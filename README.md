@@ -4,7 +4,7 @@ Display the common stauts for `dwm` status bar
 Only Linux
 > Windows doesn't have these command
 ## Dependency
-[Nerd Font](https://www.nerdfonts.com)
+Any fonts with [Nerd Font](https://www.nerdfonts.com) patch
 ## Usage
 1. Download or Compile it
 2. Add it to your `autostart`
