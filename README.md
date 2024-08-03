@@ -1,8 +1,5 @@
 # DwmStatus 
 Display the common stauts for `dwm` status bar
-## Platform Surpport
-Only Linux
-> Windows doesn't have these command
 ## Dependency
 Any fonts with [Nerd Font](https://www.nerdfonts.com) patch
 ## Usage
